@@ -1,4 +1,4 @@
-Worked with Nashville housing data to show an example of cleaning data to make it usable
+
 
 SELECT TOP (1000) [UniqueID ]
       ,[ParcelID]
